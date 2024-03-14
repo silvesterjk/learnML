@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "2fcc92ce18d1675f",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f1f82e0a112bac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047e19a04d38a24a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "266bd120155d89c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tokenization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "489b6fb0240fa142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87e0915229cbfe37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Attention & Transformers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da49b00dcfe71f3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d3139c5f8367358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89925aff33aaaa5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f55ec493ee533175",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63acef74abcdae92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4d82a23ef56e78b",
+    "type": "split",
+    "children": [
+      {
+        "id": "479b791201d99563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be5705b5d1eb3c85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Self Attention & Transformers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3cfb3efeba21291f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Self Attention & Transformers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1eecb48e08c24e4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7827e1d843cdfdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Self Attention & Transformers.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "87e0915229cbfe37",
+  "lastOpenFiles": [
+    "Embedding.md",
+    "Tokenization.md",
+    "Learning/Architectures.md",
+    "Self Attention & Transformers.md",
+    "Transformers.md",
+    "Learning/Academic NLP.md",
+    "Learning/! Learning Network.md"
+  ]
+}

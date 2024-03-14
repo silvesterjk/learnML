@@ -1,6 +1,4 @@
-[[Neural Networks]]
-[[CNNs]]
-[[RNNs & LSTMs]]
-[[Transformers]]
+
+[[Self Attention & Transformers]] 
 [[Embedding]]
 [[Tokenization]] 
