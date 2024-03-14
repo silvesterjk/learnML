@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "266bd120155d89c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tokenization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "489b6fb0240fa142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "87e0915229cbfe37",
             "type": "leaf",
             "state": {
@@ -56,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4d82a23ef56e78b",
@@ -185,10 +162,12 @@
   },
   "active": "87e0915229cbfe37",
   "lastOpenFiles": [
-    "Embedding.md",
-    "Tokenization.md",
+    "Pasted image 20240314132928.png",
     "Learning/Architectures.md",
     "Self Attention & Transformers.md",
+    "Tokenization.md",
+    "README.md",
+    "Embedding.md",
     "Transformers.md",
     "Learning/Academic NLP.md",
     "Learning/! Learning Network.md"
