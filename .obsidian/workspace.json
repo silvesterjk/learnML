@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Architectures.md",
+                "file": "Learning/! Learning Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c78a9e30e322314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8827cca34c1c592b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python for Datascience.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Attention & Transformers.md",
+                "file": "Python for Datascience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Attention & Transformers.md",
+                "file": "Python for Datascience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Attention & Transformers.md"
+                "file": "Python for Datascience.md"
               }
             }
           }
@@ -160,16 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87e0915229cbfe37",
+  "active": "8827cca34c1c592b",
   "lastOpenFiles": [
-    "Pasted image 20240314132928.png",
+    "Learning/Python.md",
+    "Python for Datascience.md",
+    "Learning/! Learning Network.md",
+    "Learning/Academic NLP.md",
     "Learning/Architectures.md",
     "Self Attention & Transformers.md",
+    "Pasted image 20240314132928.png",
     "Tokenization.md",
     "README.md",
     "Embedding.md",
-    "Transformers.md",
-    "Learning/Academic NLP.md",
-    "Learning/! Learning Network.md"
+    "Transformers.md"
   ]
 }
