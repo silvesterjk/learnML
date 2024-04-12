@@ -53,3 +53,9 @@ Transformers use word embedding, positional coding, self-attention, encoder-deco
 
 --------------------------------- 
 
+In essense:
+
+* We tokenise the input sentences (corpus)
+* We create an embedding -- turn the tokens into the vector representations.
+* Positional encoding -- add additional vectors to the word embedding to retain the word order and semantic meaning of the sentence (corpus). 
+*  

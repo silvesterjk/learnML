@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/! Learning Network.md",
+                "file": "Self Attention & Transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Python.md",
+                "file": "Learning/NLP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fa677ace59719e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Practical NLP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b639d0b13b3e1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/LLM Frameworks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6abdf3e7a081410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Langchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python for Datascience.md",
+                "file": "Langchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python for Datascience.md",
+                "file": "Langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python for Datascience.md"
+                "file": "Langchain.md"
               }
             }
           }
@@ -184,14 +220,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8827cca34c1c592b",
+  "active": "a6abdf3e7a081410",
   "lastOpenFiles": [
-    "Learning/Python.md",
-    "Python for Datascience.md",
+    "Learning/Practical NLP.md",
+    "Learning/LLM Frameworks.md",
+    "Langchain.md",
+    "Learning/NLP.md",
     "Learning/! Learning Network.md",
     "Learning/Academic NLP.md",
-    "Learning/Architectures.md",
+    "Learning/Python.md",
     "Self Attention & Transformers.md",
+    "Learning/Architectures.md",
+    "PhD.md",
+    "Python for Datascience.md",
     "Pasted image 20240314132928.png",
     "Tokenization.md",
     "README.md",

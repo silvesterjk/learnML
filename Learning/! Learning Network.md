@@ -11,8 +11,7 @@
 
 
 * [[Industrial ML Labs]] 
-
-* [[PhD]]
+* [[PhD]] 
 
 
 
