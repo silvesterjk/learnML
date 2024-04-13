@@ -222,6 +222,8 @@
   },
   "active": "a6abdf3e7a081410",
   "lastOpenFiles": [
+    "transformers/model.ipynb",
+    "transformers/model_code.py",
     "transformers/translate.py",
     "transformers/train.py",
     "transformers/train_wb.py",
@@ -232,8 +234,6 @@
     "transformers/Inference.ipynb",
     "transformers/dataset.py",
     "transformers/config.py",
-    "transformers/conda.txt",
-    "transformers/Colab_Train.ipynb",
     "pytorch-transformer/README.md",
     "Learning/Practical NLP.md",
     "Learning/LLM Frameworks.md",
