@@ -287,6 +287,3 @@ def build_transformer(src_vocab_size: int,
             nn.init.xavier_uniform_(p)
             
     return transformer
-    
-        
-# %%

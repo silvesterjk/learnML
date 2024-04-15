@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3c78a9e30e322314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Issues with RNNs x Why & How Transformers Work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Issues with RNNs x Why & How Transformers Work.md",
+                "file": "Learning/! Learning Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Issues with RNNs x Why & How Transformers Work.md",
+                "file": "Learning/! Learning Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Issues with RNNs x Why & How Transformers Work.md"
+                "file": "Learning/! Learning Network.md"
               }
             }
           }
@@ -160,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c78a9e30e322314",
+  "active": "047e19a04d38a24a",
   "lastOpenFiles": [
+    "Issues with RNNs x Why & How Transformers Work.md",
     "Learning Media/Pasted image 20240415175226.png",
     "Learning Media/Pasted image 20240415174910.png",
     "Learning Media/Pasted image 20240415133754.png",
@@ -172,9 +160,7 @@
     "Learning Media/Pasted image 20240415131009.png",
     "Learning Media/Pasted image 20240314132928.png",
     "Learning Media/Pasted image 20240307202753.png",
-    "Pasted image 20240415175226.png",
     "Learning/! Learning Network.md",
-    "Issues with RNNs x Why & How Transformers Work.md",
     "Learning/Architectures.md",
     "Self Attention & Transformers.md",
     "Learning/NLP.md",
