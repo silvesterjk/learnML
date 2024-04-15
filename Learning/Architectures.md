@@ -2,4 +2,4 @@
 [[Self Attention & Transformers]] 
 [[Embedding]]
 [[Tokenization]]  
-[[Issues with RNNs x Transformers]] 
+[[Issues with RNNs x Why & How Transformers Work]] 
