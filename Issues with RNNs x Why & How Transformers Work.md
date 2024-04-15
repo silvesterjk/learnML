@@ -15,8 +15,7 @@
 		* Self attention as the tokens in the sentence pay attention to each other.
 		![[Pasted image 20240415132625.png]]
 		![[Pasted image 20240415132715.png]]
-		* 
-			* ![[Pasted image 20240415133501.png]]
+			![[Pasted image 20240415133501.png]]
 	* If we do not want some values to interact with each other, we can artificially set the values to negative infinity, which can then become 0 when softmax is applied. 
 	* Since words against each other are meeting in the diagonal of the matrix, it tends to always have high score. 
 		* Multi-head Attention:
