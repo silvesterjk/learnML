@@ -99,14 +99,18 @@ class MultiHeadAttentionBlock(nn.Module):
         
         return self.w_o(x) #(batch, seq_len, d_model) x (batch x d_model x d_model) -> (batch, seq_len, d_model)
         
-        
+ #LayerNormalization is defined as a subclass of nn.Module, making it a custom module in the PyTorch framework. 
+ #This allows it to integrate seamlessly with other PyTorch layers and functionalities.       
 class LayerNormalization(nn.Module):
-    
+    #This is the constructor method for the LayerNormalization class. It initializes a new instance of this class.
+    #features: an integer that specifies the number of features (or the dimensionality) of the input tensors that will be normalized. 
+    #This is often the size of the embeddings or hidden layers.
+    #eps: a small float added to the standard deviation to prevent division by zero. It defaults to 10**-6.
     def __init__(self, features: int, eps: float=10**-6) -> None:
         super().__init__() #features refers to the embedding/hidden size dimension
         self.eps = eps
-        self.alpha = nn.Parameter(torch.ones(features)) #learnable
-        self.bias = nn.Parameter(torch.zeros(features)) #learnable
+        self.alpha = nn.Parameter(torch.ones(features)) #learnable # Multiplied
+        self.bias = nn.Parameter(torch.zeros(features)) #learnable # Added
         
     def forward(self, x):
         mean = x.mean(dim = -1, keepdim = True) #batch x seq_len x 1 (across of every token embdedding)
