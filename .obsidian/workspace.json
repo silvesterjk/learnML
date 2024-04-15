@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Attention & Transformers.md",
+                "file": "Learning/Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63312a053370f897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Issues with RNNs x Transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,66 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/NLP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fa677ace59719e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Practical NLP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b639d0b13b3e1b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/LLM Frameworks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6abdf3e7a081410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Langchain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8827cca34c1c592b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python for Datascience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87e0915229cbfe37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Self Attention & Transformers.md",
                 "mode": "source",
                 "source": false
@@ -92,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langchain.md",
+                "file": "Issues with RNNs x Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langchain.md",
+                "file": "Issues with RNNs x Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Langchain.md"
+                "file": "Issues with RNNs x Transformers.md"
               }
             }
           }
@@ -220,8 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6abdf3e7a081410",
+  "active": "63312a053370f897",
   "lastOpenFiles": [
+    "Self Attention & Transformers.md",
+    "Learning/LLM Frameworks.md",
+    "Learning/Practical NLP.md",
+    "Issues with RNNs x Transformers.md",
+    "Learning/Architectures.md",
+    "Learning/Academic NLP.md",
+    "Learning/NLP.md",
+    "Langchain.md",
     "transformers/model.ipynb",
     "transformers/model_code.py",
     "transformers/translate.py",
@@ -233,17 +193,9 @@
     "transformers/Local_Train.ipynb",
     "transformers/Inference.ipynb",
     "transformers/dataset.py",
-    "transformers/config.py",
     "pytorch-transformer/README.md",
-    "Learning/Practical NLP.md",
-    "Learning/LLM Frameworks.md",
-    "Langchain.md",
-    "Learning/NLP.md",
     "Learning/! Learning Network.md",
-    "Learning/Academic NLP.md",
     "Learning/Python.md",
-    "Self Attention & Transformers.md",
-    "Learning/Architectures.md",
     "PhD.md",
     "Python for Datascience.md",
     "Pasted image 20240314132928.png",
