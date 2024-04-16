@@ -13,5 +13,6 @@
 * [[Model merging]]
 * [[Positional embeddings]] 
 
+[[DL Books]] 
 
 [[Papers for NLP]] 

@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/! Learning Network.md",
+                "file": "DL Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d243e6ca1d60a19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Understanding Deep Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef992f0893cbb86c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decoder-Only Transformer (llama2).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/! Learning Network.md",
+                "file": "Understanding Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/! Learning Network.md",
+                "file": "Understanding Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/! Learning Network.md"
+                "file": "Understanding Deep Learning.md"
               }
             }
           }
@@ -147,8 +172,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "047e19a04d38a24a",
+  "active": "d243e6ca1d60a19f",
   "lastOpenFiles": [
+    "Decoder-Only Transformer (llama2).md",
+    "Understanding Deep Learning.md",
+    "DL Books.md",
+    "Learning/Academic Deep Learning.md",
+    "Learning/Architectures.md",
+    "Pasted image 20240415213036.png",
+    "Tokenization.md",
+    "Embedding.md",
+    "Self Attention & Transformers.md",
+    "Learning/NLP.md",
+    "Learning/! Learning Network.md",
     "Issues with RNNs x Why & How Transformers Work.md",
     "Learning Media/Pasted image 20240415175226.png",
     "Learning Media/Pasted image 20240415174910.png",
@@ -159,12 +195,6 @@
     "Learning Media/Pasted image 20240415131220.png",
     "Learning Media/Pasted image 20240415131009.png",
     "Learning Media/Pasted image 20240314132928.png",
-    "Learning Media/Pasted image 20240307202753.png",
-    "Learning/! Learning Network.md",
-    "Learning/Architectures.md",
-    "Self Attention & Transformers.md",
-    "Learning/NLP.md",
-    "Learning/Academic NLP.md",
     "Learning/LLM Frameworks.md",
     "Learning/Practical NLP.md",
     "Langchain.md",
@@ -183,9 +213,7 @@
     "Learning/Python.md",
     "PhD.md",
     "Python for Datascience.md",
-    "Tokenization.md",
     "README.md",
-    "Embedding.md",
     "Transformers.md"
   ]
 }

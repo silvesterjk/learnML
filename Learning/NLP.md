@@ -1,2 +1,2 @@
-*  [[Academic NLP]]
+*  [[Academic Deep Learning]]
 *  [[Practical NLP]] 

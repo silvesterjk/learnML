@@ -1,4 +1,5 @@
 [[Issues with RNNs x Why & How Transformers Work]] 
 [[Self Attention & Transformers]] 
-[[Embedding]]
-[[Tokenization]]  
+[[Decoder-Only Transformer (llama2)]] 
+
+ 
