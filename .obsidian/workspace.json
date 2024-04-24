@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Architectures.md",
+                "file": "Decoder-Only Transformer (AK GPT).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Architectures.md",
+                "file": "Decoder-Only Transformer (AK GPT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Architectures.md",
+                "file": "Decoder-Only Transformer (AK GPT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Architectures.md"
+                "file": "Decoder-Only Transformer (AK GPT).md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "0ba234d8a4ecf6bd",
   "lastOpenFiles": [
+    "Learning/Architectures.md",
     "DL Books.md",
     "Understanding Deep Learning.md",
-    "Decoder-Only Transformer (llama2).md",
+    "Decoder-Only Transformer (AK GPT).md",
     "Learning/Academic Deep Learning.md",
-    "Learning/Architectures.md",
     "Pasted image 20240415213036.png",
     "Tokenization.md",
     "Embedding.md",

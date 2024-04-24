@@ -1,5 +1,6 @@
 [[Issues with RNNs x Why & How Transformers Work]] 
 [[Self Attention & Transformers]] 
-[[Decoder-Only Transformer (llama2)]] 
+[[Decoder-Only Transformer (AK GPT)]] 
+[[Decoder-Only Transformer (AK GPT)]] 
 
      
