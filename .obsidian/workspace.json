@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decoder-Only Transformer (AK GPT).md",
+                "file": "LLMs.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decoder-Only Transformer (AK GPT).md",
+                "file": "LLMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decoder-Only Transformer (AK GPT).md",
+                "file": "LLMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decoder-Only Transformer (AK GPT).md"
+                "file": "LLMs.md"
               }
             }
           }
@@ -149,17 +149,19 @@
   },
   "active": "0ba234d8a4ecf6bd",
   "lastOpenFiles": [
+    "Learning/Academic Deep Learning.md",
+    "LLMs.md",
+    "Papers for NLP.md",
+    "Learning/NLP.md",
+    "Learning/! Learning Network.md",
     "Learning/Architectures.md",
+    "Decoder-Only Transformer (AK GPT).md",
     "DL Books.md",
     "Understanding Deep Learning.md",
-    "Decoder-Only Transformer (AK GPT).md",
-    "Learning/Academic Deep Learning.md",
     "Pasted image 20240415213036.png",
     "Tokenization.md",
     "Embedding.md",
     "Self Attention & Transformers.md",
-    "Learning/NLP.md",
-    "Learning/! Learning Network.md",
     "Issues with RNNs x Why & How Transformers Work.md",
     "Learning Media/Pasted image 20240415175226.png",
     "Learning Media/Pasted image 20240415174910.png",
