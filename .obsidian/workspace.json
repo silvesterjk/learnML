@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b431245bc8e095c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad49cf656bd3b137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLMs.md",
+                "file": "Prompt Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLMs.md",
+                "file": "Prompt Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLMs.md"
+                "file": "Prompt Engineering.md"
               }
             }
           }
@@ -147,13 +172,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ba234d8a4ecf6bd",
+  "active": "ad49cf656bd3b137",
   "lastOpenFiles": [
-    "Learning/Academic Deep Learning.md",
     "LLMs.md",
-    "Papers for NLP.md",
+    "Prompt Engineering.md",
+    "Learning/Academic Deep Learning.md",
     "Learning/NLP.md",
     "Learning/! Learning Network.md",
+    "Papers for NLP.md",
     "Learning/Architectures.md",
     "Decoder-Only Transformer (AK GPT).md",
     "DL Books.md",
