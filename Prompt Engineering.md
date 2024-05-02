@@ -15,3 +15,8 @@ Elements of a Prompt: A prompt contains any of the following elements:
 * Context - external information or additional context that can steer the model to better responses
 * Input Data - the input or question that we are interested to find a response for
 * Output Indicator - the type or format of the output.
+
+Prompt Design:
+* Start simple
+	* Be specific, simple and concise. 
+* Iterate over functionality overtime.
