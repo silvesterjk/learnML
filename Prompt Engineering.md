@@ -20,3 +20,9 @@ Prompt Design:
 * Start simple
 	* Be specific, simple and concise. 
 * Iterate over functionality overtime.
+
+
+Techniques:
+
+* Zero-shot prompting:
+	* 
