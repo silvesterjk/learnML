@@ -46,4 +46,6 @@ Techniques:
 		`Finally, you ate 1 apple, so you would remain with 10 apples.` 
 		
 	* Automatic Chain-of-Thought (Auto-CoT)
-		
+		![[Pasted image 20240505121050.png]]
+
+* 
