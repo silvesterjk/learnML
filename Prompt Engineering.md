@@ -151,6 +151,12 @@ Techniques:
 	* Active-Prompt:
 		![[Pasted image 20240505131216.png]]
 		`Above is an illustration of the approach. The first step is to query the LLM with or without a few CoT examples. _k_ possible answers are generated for a set of training questions. An uncertainty metric is calculated based on the _k_ answers (disagreement used). The most uncertain questions are selected for annotation by humans. The new annotated exemplars are then used to infer each question.`
-	* Directional Stimulus Prompting
-		
 	
+	* Directional Stimulus Prompting
+		![[Pasted image 20240505131751.png]]
+	* PAL (Program-Aided Language Models
+		![[Pasted image 20240505132404.png]]
+		`It differs from chain-of-thought prompting in that instead of using free-form text to obtain solution it offloads the solution step to a programmatic runtime such as a Python interpreter.`
+	* ReAct Prompting
+		
+	* 
