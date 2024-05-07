@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decoder-Only Transformer (UJ LLaMA).md",
+                "file": "Learning/Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b370da5e5631a9a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encoder-Only Transformer (UJ BERT).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decoder-Only Transformer (UJ LLaMA).md",
+                "file": "Encoder-Only Transformer (UJ BERT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decoder-Only Transformer (UJ LLaMA).md",
+                "file": "Encoder-Only Transformer (UJ BERT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decoder-Only Transformer (UJ LLaMA).md"
+                "file": "Encoder-Only Transformer (UJ BERT).md"
               }
             }
           }
@@ -159,8 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ba234d8a4ecf6bd",
+  "active": "b370da5e5631a9a4",
   "lastOpenFiles": [
+    "Learning/Architectures.md",
+    "Encoder-Only Transformer (UJ BERT).md",
+    "Decoder-Only Transformer (UJ LLaMA).md",
     "Learning Media/Pasted image 20240507224644.png",
     "Learning Media/Pasted image 20240507224633.png",
     "Learning Media/Pasted image 20240507224145.png",
@@ -171,11 +187,8 @@
     "Learning Media/Pasted image 20240507222903.png",
     "Learning Media/Pasted image 20240507222843.png",
     "Learning Media/Pasted image 20240507222752.png",
-    "Pasted image 20240507224644.png",
-    "Learning/Architectures.md",
     "Self Attention & Transformers.md",
     "Prompt Engineering.md",
-    "Decoder-Only Transformer (UJ LLaMA).md",
     "Learning/Academic Deep Learning.md",
     "LLMs.md",
     "Learning/NLP.md",
