@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Attention & Transformers.md",
+                "file": "Decoder-Only Transformer (UJ LLaMA).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Attention & Transformers.md",
+                "file": "Decoder-Only Transformer (UJ LLaMA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Attention & Transformers.md",
+                "file": "Decoder-Only Transformer (UJ LLaMA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Attention & Transformers.md"
+                "file": "Decoder-Only Transformer (UJ LLaMA).md"
               }
             }
           }
@@ -161,29 +161,30 @@
   },
   "active": "0ba234d8a4ecf6bd",
   "lastOpenFiles": [
+    "Learning Media/Pasted image 20240507215324.png",
+    "Learning Media/Pasted image 20240505141539.png",
+    "Learning Media/Pasted image 20240505134316.png",
+    "Learning Media/Pasted image 20240505133550.png",
+    "Pasted image 20240507215324.png",
     "Learning/Architectures.md",
-    "Decoder-Only Transformer (AK GPT).md",
+    "Self Attention & Transformers.md",
+    "Prompt Engineering.md",
+    "Decoder-Only Transformer (UJ LLaMA).md",
     "Learning/Academic Deep Learning.md",
     "LLMs.md",
     "Learning/NLP.md",
     "Learning/! Learning Network.md",
-    "Prompt Engineering.md",
     "Pasted image 20240505141539.png",
     "Pasted image 20240505134316.png",
     "Pasted image 20240505133550.png",
     "Learning Media/Pasted image 20240505132404.png",
     "Learning Media/Pasted image 20240505131751.png",
     "Pasted image 20240505132404.png",
-    "Pasted image 20240505131751.png",
-    "Learning Media/Pasted image 20240505131216.png",
-    "Learning Media/Pasted image 20240505130117.png",
-    "Learning Media/Pasted image 20240505130056.png",
     "Papers for NLP.md",
     "DL Books.md",
     "Understanding Deep Learning.md",
     "Tokenization.md",
     "Embedding.md",
-    "Self Attention & Transformers.md",
     "Issues with RNNs x Why & How Transformers Work.md",
     "Learning/LLM Frameworks.md",
     "Learning/Practical NLP.md",
