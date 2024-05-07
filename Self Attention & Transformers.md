@@ -53,9 +53,12 @@ Transformers use word embedding, positional coding, self-attention, encoder-deco
 
 --------------------------------- 
 
-In essense:
+**In essense:**
 
 * We tokenise the input sentences (corpus)
 * We create an embedding -- turn the tokens into the vector representations.
 * Positional encoding -- add additional vectors to the word embedding to retain the word order and semantic meaning of the sentence (corpus). 
-*  
+*  Which is then sent to the attention layer, which is then added with the residual connection then normalised before it is sent to the FNN. The output of the FNN is also added and normalised with the residual connection.
+* The logits from the FNN that are added and normalised are then sent as the the input to the multi headed attention layer of the decoder block, and this attention layer takes other input from the masked-multi headed attention layer of the decoder block.
+* Output of the multi headed attention layer of the decoder block is then sent to another FNN which is then added with its residual connection and then normalised. 
+* Which goes through a linear layer and then a softmax later to output predicted probabilities against the text corpus. 

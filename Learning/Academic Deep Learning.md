@@ -1,6 +1,6 @@
 
 * [[Mathematics for Machine Learning]]
-* [[Architectures]]
+* [[Architectures]] 
 * [[LLMs]] 
 * [[Datasets]]
 * [[Pre-Training]]
