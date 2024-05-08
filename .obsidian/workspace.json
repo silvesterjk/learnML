@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Architectures.md",
+                "file": "Encoder-Only Transformer (UJ BERT).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22ad1bfb2e0f24cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decoder-Only Transformer (AK GPT).md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,23 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b370da5e5631a9a4",
+  "active": "0ba234d8a4ecf6bd",
   "lastOpenFiles": [
+    "Learning Media/Pasted image 20240508123550.png",
+    "Learning Media/Pasted image 20240508122545.png",
+    "Learning Media/Pasted image 20240508122319.png",
+    "Learning Media/Pasted image 20240508122314.png",
+    "Learning Media/Pasted image 20240508122025.png",
+    "Learning Media/Pasted image 20240508121500.png",
+    "Learning Media/Pasted image 20240508120851.png",
+    "Learning Media/Pasted image 20240508120848.png",
+    "Learning Media/Pasted image 20240508120709.png",
+    "Learning Media/Pasted image 20240508114609.png",
+    "Learning Media/Pasted image 20240508114405.png",
     "Learning/Architectures.md",
+    "Decoder-Only Transformer (AK GPT).md",
+    "Prompt Engineering.md",
     "Encoder-Only Transformer (UJ BERT).md",
     "Decoder-Only Transformer (UJ LLaMA).md",
-    "Learning Media/Pasted image 20240507224644.png",
-    "Learning Media/Pasted image 20240507224633.png",
-    "Learning Media/Pasted image 20240507224145.png",
-    "Learning Media/Pasted image 20240507223117.png",
-    "Learning Media/Pasted image 20240507223100.png",
-    "Learning Media/Pasted image 20240507223017.png",
-    "Learning Media/Pasted image 20240507223015.png",
-    "Learning Media/Pasted image 20240507222903.png",
-    "Learning Media/Pasted image 20240507222843.png",
-    "Learning Media/Pasted image 20240507222752.png",
     "Self Attention & Transformers.md",
-    "Prompt Engineering.md",
     "Learning/Academic Deep Learning.md",
     "LLMs.md",
     "Learning/NLP.md",
@@ -217,7 +230,6 @@
     "Learning/Python.md",
     "PhD.md",
     "Python for Datascience.md",
-    "README.md",
-    "Transformers.md"
+    "README.md"
   ]
 }
