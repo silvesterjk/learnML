@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encoder-Only Transformer (UJ BERT).md",
+                "file": "Learning/Supervised Fine-Tuning.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encoder-Only Transformer (UJ BERT).md",
+                "file": "Learning/Supervised Fine-Tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encoder-Only Transformer (UJ BERT).md",
+                "file": "Learning/Supervised Fine-Tuning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encoder-Only Transformer (UJ BERT).md"
+                "file": "Learning/Supervised Fine-Tuning.md"
               }
             }
           }
@@ -185,24 +185,25 @@
   },
   "active": "0ba234d8a4ecf6bd",
   "lastOpenFiles": [
+    "LORA.md",
+    "Pasted image 20240508154815.png",
+    "Pasted image 20240508154759.png",
+    "Pasted image 20240508154610.png",
+    "Pasted image 20240508154608.png",
+    "Learning/Supervised Fine-Tuning.md",
+    "Learning/Academic Deep Learning.md",
+    "Learning/Architectures.md",
+    "Encoder-Only Transformer (UJ BERT).md",
     "Learning Media/Pasted image 20240508123550.png",
     "Learning Media/Pasted image 20240508122545.png",
     "Learning Media/Pasted image 20240508122319.png",
     "Learning Media/Pasted image 20240508122314.png",
     "Learning Media/Pasted image 20240508122025.png",
     "Learning Media/Pasted image 20240508121500.png",
-    "Learning Media/Pasted image 20240508120851.png",
-    "Learning Media/Pasted image 20240508120848.png",
-    "Learning Media/Pasted image 20240508120709.png",
-    "Learning Media/Pasted image 20240508114609.png",
-    "Learning Media/Pasted image 20240508114405.png",
-    "Learning/Architectures.md",
     "Decoder-Only Transformer (AK GPT).md",
     "Prompt Engineering.md",
-    "Encoder-Only Transformer (UJ BERT).md",
     "Decoder-Only Transformer (UJ LLaMA).md",
     "Self Attention & Transformers.md",
-    "Learning/Academic Deep Learning.md",
     "LLMs.md",
     "Learning/NLP.md",
     "Learning/! Learning Network.md",
@@ -228,8 +229,6 @@
     "transformers/dataset.py",
     "pytorch-transformer/README.md",
     "Learning/Python.md",
-    "PhD.md",
-    "Python for Datascience.md",
-    "README.md"
+    "PhD.md"
   ]
 }
