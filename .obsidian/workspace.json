@@ -44,12 +44,24 @@
             }
           },
           {
+            "id": "5981ada6d449c7f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scaling Laws of Neural Networks - Paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "221faf08794b31ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Selection.md",
+                "file": "Data Selection - Paper.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Selection.md",
+                "file": "Scaling Laws of Neural Networks - Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Selection.md",
+                "file": "Scaling Laws of Neural Networks - Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Selection.md"
+                "file": "Scaling Laws of Neural Networks - Paper.md"
               }
             }
           }
@@ -184,10 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "221faf08794b31ce",
+  "active": "5981ada6d449c7f4",
   "lastOpenFiles": [
+    "Data Selection - Paper.md",
+    "Scaling Laws of Neural Networks - Paper.md",
     "Papers.md",
-    "Data Selection.md",
     "Learning/Academic ML.md",
     "Learning/Machine Learning.md",
     "Learning/Practical ML.md",
@@ -230,7 +243,6 @@
     "transformers/Local_Train.ipynb",
     "transformers/Inference.ipynb",
     "transformers/dataset.py",
-    "pytorch-transformer/README.md",
-    "Learning/Python.md"
+    "pytorch-transformer/README.md"
   ]
 }
