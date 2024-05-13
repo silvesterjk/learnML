@@ -13,49 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Supervised Fine-Tuning.md",
+                "file": "Learning/Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "22ad1bfb2e0f24cf",
+            "id": "bb6cc82479d45d91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decoder-Only Transformer (AK GPT).md",
+                "file": "Learning/Academic ML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b370da5e5631a9a4",
+            "id": "b8a05335f37691ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encoder-Only Transformer (UJ BERT).md",
+                "file": "Papers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ad49cf656bd3b137",
+            "id": "221faf08794b31ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Engineering.md",
+                "file": "Data Selection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Supervised Fine-Tuning.md",
+                "file": "Data Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Supervised Fine-Tuning.md",
+                "file": "Data Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Supervised Fine-Tuning.md"
+                "file": "Data Selection.md"
               }
             }
           }
@@ -183,15 +184,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ba234d8a4ecf6bd",
+  "active": "221faf08794b31ce",
   "lastOpenFiles": [
+    "Papers.md",
+    "Data Selection.md",
+    "Learning/Academic ML.md",
+    "Learning/Machine Learning.md",
+    "Learning/Practical ML.md",
+    "Learning/Supervised Fine-Tuning.md",
     "LORA.md",
     "Pasted image 20240508154815.png",
     "Pasted image 20240508154759.png",
     "Pasted image 20240508154610.png",
     "Pasted image 20240508154608.png",
-    "Learning/Supervised Fine-Tuning.md",
-    "Learning/Academic Deep Learning.md",
     "Learning/Architectures.md",
     "Encoder-Only Transformer (UJ BERT).md",
     "Learning Media/Pasted image 20240508123550.png",
@@ -205,7 +210,6 @@
     "Decoder-Only Transformer (UJ LLaMA).md",
     "Self Attention & Transformers.md",
     "LLMs.md",
-    "Learning/NLP.md",
     "Learning/! Learning Network.md",
     "Papers for NLP.md",
     "DL Books.md",
@@ -214,7 +218,6 @@
     "Embedding.md",
     "Issues with RNNs x Why & How Transformers Work.md",
     "Learning/LLM Frameworks.md",
-    "Learning/Practical NLP.md",
     "Langchain.md",
     "transformers/model.ipynb",
     "transformers/model_code.py",
@@ -228,7 +231,6 @@
     "transformers/Inference.ipynb",
     "transformers/dataset.py",
     "pytorch-transformer/README.md",
-    "Learning/Python.md",
-    "PhD.md"
+    "Learning/Python.md"
   ]
 }

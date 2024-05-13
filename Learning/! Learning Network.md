@@ -1,7 +1,7 @@
 * [[Python]]
 	Here is where all the learning related to the Python programming language is held.
 	
-* [[NLP]]
+* [[Machine Learning]]
 	Both Academic and Practical NLP materials are within
 
 * [[Backend Engineering]]
