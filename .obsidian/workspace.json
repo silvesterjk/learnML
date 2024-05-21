@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Machine Learning.md",
+                "file": "Learning/Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05e311af78f2d785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supervised Learning - Linear Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "924c5500ab752d42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Mathematics for Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0157ef787bb098ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scaling Laws of Neural Networks - Paper.md",
+                "file": "Supervised Learning - Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scaling Laws of Neural Networks - Paper.md",
+                "file": "Supervised Learning - Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scaling Laws of Neural Networks - Paper.md"
+                "file": "Supervised Learning - Linear Regression.md"
               }
             }
           }
@@ -196,13 +232,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5981ada6d449c7f4",
+  "active": "05e311af78f2d785",
   "lastOpenFiles": [
-    "Data Selection - Paper.md",
-    "Scaling Laws of Neural Networks - Paper.md",
-    "Papers.md",
+    "Learning/Architectures.md",
+    "Supervised Learning - Linear Regression.md",
     "Learning/Academic ML.md",
     "Learning/Machine Learning.md",
+    "Learning/Mathematics for Machine Learning.md",
+    "Mathematical Thinking.md",
+    "Scaling Laws of Neural Networks - Paper.md",
+    "Data Selection - Paper.md",
+    "Papers.md",
     "Learning/Practical ML.md",
     "Learning/Supervised Fine-Tuning.md",
     "LORA.md",
@@ -210,7 +250,6 @@
     "Pasted image 20240508154759.png",
     "Pasted image 20240508154610.png",
     "Pasted image 20240508154608.png",
-    "Learning/Architectures.md",
     "Encoder-Only Transformer (UJ BERT).md",
     "Learning Media/Pasted image 20240508123550.png",
     "Learning Media/Pasted image 20240508122545.png",
@@ -231,18 +270,15 @@
     "Embedding.md",
     "Issues with RNNs x Why & How Transformers Work.md",
     "Learning/LLM Frameworks.md",
-    "Langchain.md",
     "transformers/model.ipynb",
     "transformers/model_code.py",
     "transformers/translate.py",
     "transformers/train.py",
     "transformers/train_wb.py",
     "transformers/requirements.txt",
-    "transformers/README.md",
     "transformers/model.py",
     "transformers/Local_Train.ipynb",
     "transformers/Inference.ipynb",
-    "transformers/dataset.py",
-    "pytorch-transformer/README.md"
+    "transformers/dataset.py"
   ]
 }
