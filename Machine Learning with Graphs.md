@@ -9,3 +9,6 @@
 	* Clustering: Grouping relevant nodes together
 	* Graph generation: Drug discovery
 	* Graph evolution: Physical simulations
+* Strongly connected components (SCCs) can be identified but not every node is part of a nontrivial strongly connected component. 
+	* In Component -- Nodes that reach the SCC
+	* Out Component -- Nodes that can be reached from the SCC
