@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d16a28467267b0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3194fb672f25cec6",
             "type": "leaf",
             "state": {
@@ -139,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning with Graphs.md",
+                "file": "Knowledge Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning with Graphs.md",
+                "file": "Knowledge Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning with Graphs.md"
+                "file": "Knowledge Graph.md"
               }
             }
           }
@@ -267,13 +280,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ba234d8a4ecf6bd",
+  "active": "d16a28467267b0d7",
   "lastOpenFiles": [
+    "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",
+    "D2AI/KnowledgeGraphs/Unconfirmed 676680.crdownload",
+    "D2AI/KnowledgeGraphs/Unconfirmed 81641.crdownload",
+    "D2AI/KnowledgeGraphs/L2-query_with_cypher.ipynb",
+    "D2AI/KnowledgeGraphs/Unconfirmed 939268.crdownload",
+    "D2AI/KnowledgeGraphs",
+    "D2AI/knowledgeGraph.ipynb",
+    "D2AI",
+    "Machine Learning with Graphs.md",
+    "Knowledge Graph.md",
     "Learning/Architectures.md",
+    "Learning/Academic ML.md",
     "Natural Language Processing.md",
     "Classical Machine Learning.md",
-    "Machine Learning with Graphs.md",
-    "Learning/Academic ML.md",
     "Supervised Learning - Linear Regression.md",
     "Learning/Machine Learning.md",
     "Learning/Mathematics for Machine Learning.md",
@@ -303,17 +325,8 @@
     "Learning/! Learning Network.md",
     "Papers for NLP.md",
     "DL Books.md",
-    "Understanding Deep Learning.md",
-    "Tokenization.md",
     "transformers/model.ipynb",
     "transformers/model_code.py",
-    "transformers/translate.py",
-    "transformers/train.py",
-    "transformers/train_wb.py",
-    "transformers/requirements.txt",
-    "transformers/model.py",
-    "transformers/Local_Train.ipynb",
-    "transformers/Inference.ipynb",
-    "transformers/dataset.py"
+    "transformers/translate.py"
   ]
 }

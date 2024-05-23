@@ -13,7 +13,7 @@
 * [[Mixture of Experts]]
 * [[AI Agents]]
 * [[Model merging]]
-* [[Positional embeddings]] 
+* [[Positional embeddings]]
 
 [[DL Books]] 
 

@@ -12,3 +12,5 @@
 * Strongly connected components (SCCs) can be identified but not every node is part of a nontrivial strongly connected component. 
 	* In Component -- Nodes that reach the SCC
 	* Out Component -- Nodes that can be reached from the SCC
+
+[[Knowledge Graph]]
