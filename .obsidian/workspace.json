@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning with Graphs.md",
+                "file": "Learning/! Learning Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b58f00f05c84515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/REST with FastAPI.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4d82a23ef56e78b",
@@ -219,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Graph.md",
+                "file": "Learning/REST with FastAPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Graph.md",
+                "file": "Learning/REST with FastAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Graph.md"
+                "file": "Learning/REST with FastAPI.md"
               }
             }
           }
@@ -280,8 +291,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d16a28467267b0d7",
+  "active": "3b58f00f05c84515",
   "lastOpenFiles": [
+    "Pasted image 20240524194708.png",
+    "Learning/Python.md",
+    "Learning/! Learning Network.md",
+    "Learning/Supervised Fine-Tuning.md",
+    "Learning/REST with FastAPI.md",
+    "Pasted image 20240524193503.png",
+    "Machine Learning with Graphs.md",
+    "Knowledge Graph.md",
     "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",
     "D2AI/KnowledgeGraphs/Unconfirmed 676680.crdownload",
     "D2AI/KnowledgeGraphs/Unconfirmed 81641.crdownload",
@@ -290,8 +309,6 @@
     "D2AI/KnowledgeGraphs",
     "D2AI/knowledgeGraph.ipynb",
     "D2AI",
-    "Machine Learning with Graphs.md",
-    "Knowledge Graph.md",
     "Learning/Architectures.md",
     "Learning/Academic ML.md",
     "Natural Language Processing.md",
@@ -304,7 +321,6 @@
     "Data Selection - Paper.md",
     "Papers.md",
     "Learning/Practical ML.md",
-    "Learning/Supervised Fine-Tuning.md",
     "LORA.md",
     "Pasted image 20240508154815.png",
     "Pasted image 20240508154759.png",
@@ -316,17 +332,12 @@
     "Learning Media/Pasted image 20240508122319.png",
     "Learning Media/Pasted image 20240508122314.png",
     "Learning Media/Pasted image 20240508122025.png",
-    "Learning Media/Pasted image 20240508121500.png",
     "Decoder-Only Transformer (AK GPT).md",
     "Prompt Engineering.md",
     "Decoder-Only Transformer (UJ LLaMA).md",
     "Self Attention & Transformers.md",
     "LLMs.md",
-    "Learning/! Learning Network.md",
-    "Papers for NLP.md",
-    "DL Books.md",
     "transformers/model.ipynb",
-    "transformers/model_code.py",
-    "transformers/translate.py"
+    "transformers/model_code.py"
   ]
 }

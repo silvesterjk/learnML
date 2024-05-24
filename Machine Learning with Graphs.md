@@ -13,4 +13,11 @@
 	* In Component -- Nodes that reach the SCC
 	* Out Component -- Nodes that can be reached from the SCC
 
+* Graph Tasks
+	* Node Classification
+	* Graph Classification
+	* Node Clustering
+	* Link Prediction
+	* Influence Maximisation
+
 [[Knowledge Graph]]
