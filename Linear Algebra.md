@@ -5,4 +5,4 @@ Matrix:
 * Symmetric Matrix: A = A^T
 	* A_ij = A^T_ji
 	* 
-* 
+*  
