@@ -13,91 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/! Learning Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b58f00f05c84515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/REST with FastAPI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d16a28467267b0d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee0994eb7f6ad0ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Machine Learning with Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05e311af78f2d785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Supervised Learning - Linear Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "924c5500ab752d42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Mathematics for Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0157ef787bb098ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Thinking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb6cc82479d45d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Academic ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,38 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5981ada6d449c7f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scaling Laws of Neural Networks - Paper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "221faf08794b31ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Selection - Paper.md",
+                "file": "Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning with Graphs.md",
+                "file": "Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning with Graphs.md",
+                "file": "Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning with Graphs.md"
+                "file": "Linear Algebra.md"
               }
             }
           }
@@ -268,18 +160,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee0994eb7f6ad0ae",
+  "active": "b8a05335f37691ae",
   "lastOpenFiles": [
+    "Machine Learning with Graphs.md",
+    "Linear Algebra.md",
+    "Learning/Mathematics for Machine Learning.md",
+    "Learning/! Learning Network.md",
+    "Papers.md",
     "Knowledge Graph.md",
+    "Learning/Architectures.md",
+    "Learning/Academic ML.md",
+    "Learning/Machine Learning.md",
+    "Scaling Laws of Neural Networks - Paper.md",
+    "Mathematical Thinking.md",
+    "Data Selection - Paper.md",
+    "Statistics.md",
+    "Probability.md",
+    "Calculus.md",
     "Classical Machine Learning.md",
     "Natural Language Processing.md",
     "Learning/REST with FastAPI.md",
     "Pasted image 20240524194708.png",
     "Learning/Python.md",
-    "Learning/! Learning Network.md",
     "Learning/Supervised Fine-Tuning.md",
     "Pasted image 20240524193503.png",
-    "Machine Learning with Graphs.md",
     "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",
     "D2AI/KnowledgeGraphs/Unconfirmed 676680.crdownload",
     "D2AI/KnowledgeGraphs/Unconfirmed 81641.crdownload",
@@ -288,15 +192,7 @@
     "D2AI/KnowledgeGraphs",
     "D2AI/knowledgeGraph.ipynb",
     "D2AI",
-    "Learning/Architectures.md",
-    "Learning/Academic ML.md",
     "Supervised Learning - Linear Regression.md",
-    "Learning/Machine Learning.md",
-    "Learning/Mathematics for Machine Learning.md",
-    "Mathematical Thinking.md",
-    "Scaling Laws of Neural Networks - Paper.md",
-    "Data Selection - Paper.md",
-    "Papers.md",
     "Learning/Practical ML.md",
     "LORA.md",
     "Pasted image 20240508154815.png",
@@ -310,9 +206,6 @@
     "Learning Media/Pasted image 20240508122314.png",
     "Decoder-Only Transformer (AK GPT).md",
     "Prompt Engineering.md",
-    "Decoder-Only Transformer (UJ LLaMA).md",
-    "Self Attention & Transformers.md",
-    "LLMs.md",
     "transformers/model.ipynb",
     "transformers/model_code.py"
   ]

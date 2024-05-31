@@ -4,6 +4,9 @@
 * [[Machine Learning]]
 	Both Academic and Practical NLP materials are within
 
+* [[Mathematics for Machine Learning]] 
+	Calculus, Linear Algebra, and Probability & Statistics
+
 * [[Backend Engineering]]
 	All things related to Backend
 	
@@ -13,6 +16,7 @@
 * [[Scientific Machine Learning]] 
 
 * [[Industrial ML Labs]] 
+
 * [[PhD]] 
 
 

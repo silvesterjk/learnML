@@ -8,4 +8,3 @@
 	* Not enough parameters
 	* Not enough compute
 * The compute law generalises to different data distributions such as: Math, multimodal, video, images etc.
-* 
