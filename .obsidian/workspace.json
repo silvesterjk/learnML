@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra.md",
+                "file": "Learning/Mathematics for Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c973fc692331fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability and Statistics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra.md",
+                "file": "Probability and Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra.md",
+                "file": "Probability and Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra.md"
+                "file": "Probability and Statistics.md"
               }
             }
           }
@@ -160,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a05335f37691ae",
+  "active": "4c973fc692331fae",
   "lastOpenFiles": [
+    "Learning/Mathematics for Machine Learning.md",
+    "Probability and Statistics.md",
     "Machine Learning with Graphs.md",
     "Linear Algebra.md",
-    "Learning/Mathematics for Machine Learning.md",
     "Learning/! Learning Network.md",
     "Papers.md",
     "Knowledge Graph.md",
@@ -175,7 +188,6 @@
     "Mathematical Thinking.md",
     "Data Selection - Paper.md",
     "Statistics.md",
-    "Probability.md",
     "Calculus.md",
     "Classical Machine Learning.md",
     "Natural Language Processing.md",

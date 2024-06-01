@@ -3,9 +3,7 @@
 
 [[Calculus]]
 
-[[Probability]]
-
-[[Statistics]]
+[[Probability and Statistics]] 
 
 [[Mathematical Thinking]]
 
