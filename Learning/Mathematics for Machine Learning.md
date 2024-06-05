@@ -1,9 +1,8 @@
+[[Probability and Statistics]] 
 
 [[Linear Algebra]] 
 
 [[Calculus]]
-
-[[Probability and Statistics]] 
 
 [[Mathematical Thinking]]
 

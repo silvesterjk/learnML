@@ -6,4 +6,6 @@
 	* Decision making - “What concept to teach next?” 
 	* Answering specific questions - “How much do learning videos contribute to learning against just exercise questions?" 
 
-[[Set Theory]] 
+[[Probability - Univariate Models]]
+[[Set Theory]]
+
