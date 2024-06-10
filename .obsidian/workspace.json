@@ -30,16 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "19f66201ad87595c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics.md",
+                "file": "Probability - Univariate Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics.md",
+                "file": "Probability - Univariate Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics.md"
+                "file": "Probability - Univariate Models.md"
               }
             }
           }
@@ -167,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a05335f37691ae",
+  "active": "d15c2ebcddd9b1a7",
   "lastOpenFiles": [
-    "Probability - Univariate Models.md",
     "Probability and Statistics.md",
+    "Probability - Univariate Models.md",
     "Learning/Mathematics for Machine Learning.md",
     "Learning/Machine Learning.md",
     "Learning/! Learning Network.md",
