@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML Algorithms.md",
+                "file": "Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML Algorithms.md",
+                "file": "Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML Algorithms.md",
+                "file": "Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML Algorithms.md"
+                "file": "Linear Regression.md"
               }
             }
           }
@@ -159,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89925aff33aaaa5f",
+  "active": "1ad60fe68d40dfbb",
   "lastOpenFiles": [
-    "Learning/Load Test.md",
     "ML Algorithms.md",
+    "Linear Regression.md",
+    "Supervised Learning - Linear Regression.md",
+    "Learning/Load Test.md",
     "Learning/Academic.md",
     "Learning/Architectures.md",
     "Paper Club.md",
@@ -185,8 +187,6 @@
     "Mathematical Thinking.md",
     "Data Selection - Paper.md",
     "Statistics.md",
-    "Calculus.md",
-    "Classical Machine Learning.md",
     "Pasted image 20240524194708.png",
     "Pasted image 20240524193503.png",
     "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",
