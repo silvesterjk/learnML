@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4d82a23ef56e78b",
@@ -158,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ad60fe68d40dfbb",
+  "active": "89925aff33aaaa5f",
   "lastOpenFiles": [
-    "Learning/Academic.md",
+    "Learning/Load Test.md",
     "ML Algorithms.md",
+    "Learning/Academic.md",
     "Learning/Architectures.md",
     "Paper Club.md",
     "Book Club.md",
@@ -185,7 +187,6 @@
     "Statistics.md",
     "Calculus.md",
     "Classical Machine Learning.md",
-    "Natural Language Processing.md",
     "Pasted image 20240524194708.png",
     "Pasted image 20240524193503.png",
     "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",
