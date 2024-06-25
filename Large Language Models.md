@@ -1,8 +1,3 @@
-
-* [[Papers]]
-* [[Mathematics for Machine Learning]]
-* [[Architectures]] 
-* [[LLMs]] 
 * [[Datasets]]
 * [[Pre-Training]]
 * [[Supervised Fine-Tuning]]
@@ -14,7 +9,3 @@
 * [[AI Agents]]
 * [[Model merging]]
 * [[Positional embeddings]]
-
-[[DL Books]] 
-
-[[Papers for NLP]] 

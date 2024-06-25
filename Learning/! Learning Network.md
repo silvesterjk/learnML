@@ -4,7 +4,6 @@
 * [[Machine Learning]]
 	Both Academic and Practical NLP materials are within
 
-*
 
 * [[Backend Engineering]]
 	All things related to Backend

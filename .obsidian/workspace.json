@@ -11,8 +11,24 @@
             "id": "1ad60fe68d40dfbb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ML Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3be5ed70b1b7ea3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Large Language Models.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4d82a23ef56e78b",
@@ -82,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML Algorithms.md"
+              }
             }
           }
         ]
@@ -141,18 +160,25 @@
   },
   "active": "1ad60fe68d40dfbb",
   "lastOpenFiles": [
+    "Learning/Academic.md",
+    "ML Algorithms.md",
+    "Learning/Architectures.md",
+    "Paper Club.md",
+    "Book Club.md",
+    "Understanding Deep Learning.md",
+    "Large Language Models.md",
+    "Learning/Machine Learning.md",
+    "Learning/Engineering.md",
+    "LLM Techniques.md",
+    "Learning/! Learning Network.md",
     "Probability and Statistics.md",
     "Probability - Univariate Models.md",
     "Learning/Mathematics for Machine Learning.md",
-    "Learning/Machine Learning.md",
-    "Learning/! Learning Network.md",
     "Machine Learning with Graphs.md",
     "Set Theory.md",
     "Linear Algebra.md",
     "Papers.md",
     "Knowledge Graph.md",
-    "Learning/Architectures.md",
-    "Learning/Academic ML.md",
     "Scaling Laws of Neural Networks - Paper.md",
     "Mathematical Thinking.md",
     "Data Selection - Paper.md",
@@ -160,10 +186,7 @@
     "Calculus.md",
     "Classical Machine Learning.md",
     "Natural Language Processing.md",
-    "Learning/REST with FastAPI.md",
     "Pasted image 20240524194708.png",
-    "Learning/Python.md",
-    "Learning/Supervised Fine-Tuning.md",
     "Pasted image 20240524193503.png",
     "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",
     "D2AI/KnowledgeGraphs/Unconfirmed 676680.crdownload",
@@ -173,14 +196,10 @@
     "D2AI/KnowledgeGraphs",
     "D2AI/knowledgeGraph.ipynb",
     "D2AI",
-    "Supervised Learning - Linear Regression.md",
-    "Learning/Practical ML.md",
-    "LORA.md",
     "Pasted image 20240508154815.png",
     "Pasted image 20240508154759.png",
     "Pasted image 20240508154610.png",
     "Pasted image 20240508154608.png",
-    "Encoder-Only Transformer (UJ BERT).md",
     "Learning Media/Pasted image 20240508123550.png",
     "Learning Media/Pasted image 20240508122545.png",
     "Learning Media/Pasted image 20240508122319.png",

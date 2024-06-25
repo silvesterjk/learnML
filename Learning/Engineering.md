@@ -5,3 +5,4 @@ Large Language Model Course by Maxime Labonne : https://github.com/mlabonne/llm-
 * [[LLM Frameworks]]
 * [[LLM Engineering]]
 * [[LLMOps]] 
+*  [[LLM Techniques]] 
