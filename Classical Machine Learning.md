@@ -1,1 +1,0 @@
-[[Supervised Learning - Linear Regression]]

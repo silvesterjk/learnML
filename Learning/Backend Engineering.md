@@ -1,3 +1,2 @@
 * [[Testing]]
-* [[Hosting with AWS]]
 
