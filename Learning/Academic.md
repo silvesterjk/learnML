@@ -4,7 +4,9 @@
 * [[ML Algorithms]]
 * [[Architectures]] 
 * [[Large Language Models]] 
-
+* [[Reinforcement Learning]]
+*  [[Scientific Machine Learning]] 
+ 
 
 
 [[Book Club]] 
