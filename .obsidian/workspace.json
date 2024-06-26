@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/{Learning Network}.md",
+                "file": "Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/{Learning Network}.md",
+                "file": "Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/{Learning Network}.md",
+                "file": "Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/{Learning Network}.md"
+                "file": "Linear Regression.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "3be5ed70b1b7ea3c",
   "lastOpenFiles": [
-    "Misc..md",
-    "Learning/{Learning Network}.md",
+    "ML Algorithms.md",
+    "Learning/Academic.md",
+    "Learning/Architectures.md",
     "Learning/Machine Learning.md",
+    "Learning/{Learning Network}.md",
+    "Misc..md",
     "Learning/Engineering.md",
     "Learning/Backend Engineering.md",
-    "Learning/Academic.md",
     "Reinforcement Learning.md",
     "Learning/Python.md",
     "Understanding Deep Learning.md",
@@ -173,8 +175,6 @@
     "PhD Prep.md",
     "Probability - Univariate Models.md",
     "Papers.md",
-    "Paper Writing.md",
-    "Paper Club.md",
     "Pasted image 20240524194708.png",
     "Pasted image 20240524193503.png",
     "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",
