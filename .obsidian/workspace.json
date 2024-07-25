@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "CS224W-Lecture1.md",
+=======
+                "file": "Learning/{Learning Network}.md",
+>>>>>>> parent of 7ac65ff (1)
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +90,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "CS224W-Lecture1.md",
+=======
+                "file": "Learning/{Learning Network}.md",
+>>>>>>> parent of 7ac65ff (1)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "CS224W-Lecture1.md",
+=======
+                "file": "Learning/{Learning Network}.md",
+>>>>>>> parent of 7ac65ff (1)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "CS224W-Lecture1.md"
+=======
+                "file": "Learning/{Learning Network}.md"
+>>>>>>> parent of 7ac65ff (1)
               }
             }
           }
@@ -149,6 +165,7 @@
   },
   "active": "33c975be1fc48805",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Pasted image 20240725184437.png",
     "Pasted image 20240725183931.png",
     "Pasted image 20240725183923.png",
@@ -160,6 +177,15 @@
     "Learning/{Learning Network}.md",
     "Misc..md",
     "Learning/Backend Engineering.md",
+=======
+    "Misc..md",
+    "Learning/{Learning Network}.md",
+    "Learning/Machine Learning.md",
+    "Learning/Engineering.md",
+    "Learning/Backend Engineering.md",
+    "Learning/Academic.md",
+    "Reinforcement Learning.md",
+>>>>>>> parent of 7ac65ff (1)
     "Learning/Python.md",
     "Product?.md",
     "Understanding Deep Learning.md",
@@ -181,6 +207,18 @@
     "Self Attention & Transformers.md",
     "Scientific Machine Learning.md",
     "Scaling Laws of Neural Networks - Paper.md",
+<<<<<<< HEAD
+=======
+    "README.md",
+    "Python for Datascience.md",
+    "Prompt Engineering.md",
+    "Probability and Statistics.md",
+    "PhD Prep.md",
+    "Probability - Univariate Models.md",
+    "Papers.md",
+    "Paper Writing.md",
+    "Paper Club.md",
+>>>>>>> parent of 7ac65ff (1)
     "Pasted image 20240524194708.png",
     "Pasted image 20240524193503.png",
     "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",
