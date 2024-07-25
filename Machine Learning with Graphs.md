@@ -19,7 +19,8 @@
 	* Node Clustering
 	* Link Prediction
 	* Influence Maximisation
-
-[[Knowledge Graph]]
+[[CS224W-Lecture1]]
+[[Traditional Feature-based Methods - GraphML]]
+[[Knowledge Graph - GraphML]]
 
 * Read Summary

@@ -5,7 +5,8 @@
 * [[Architectures]] 
 * [[Large Language Models]] 
 * [[Reinforcement Learning]]
-*  [[Scientific Machine Learning]] 
+* [[Scientific Machine Learning]]
+* [[Machine Learning with Graphs]] 
  
 
 
