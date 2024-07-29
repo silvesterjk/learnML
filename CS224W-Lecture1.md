@@ -67,6 +67,7 @@
 	  A_ij = 1 if there is a link from node i to node j
 	  A_io = 0 if otherwise
   -- Hence the undirected graphs are naturally symmetric and the directed graphs are not
+  -- 
   --  
   
 </details> 
