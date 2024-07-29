@@ -68,6 +68,6 @@
 	  A_io = 0 if otherwise
   -- Hence the undirected graphs are naturally symmetric and the directed graphs are not
   -- 
-  --  
+   
   
 </details> 
