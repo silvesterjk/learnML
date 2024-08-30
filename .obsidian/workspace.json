@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS224W-Lecture1.md",
+                "file": "Meeting with Sunil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40d334ec4001c228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1339ea2000002244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics and History of NLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "d4d82a23ef56e78b",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS224W-Lecture1.md",
+                "file": "Meeting with Sunil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS224W-Lecture1.md",
+                "file": "Meeting with Sunil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS224W-Lecture1.md"
+                "file": "Meeting with Sunil.md"
               }
             }
           }
@@ -148,8 +173,12 @@
   },
   "active": "33c975be1fc48805",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Learning/Architectures.md",
+    "Basics and History of NLP.md",
+    "Natural Language Processing.md",
+    "Learning/{Learning Network}.md",
     "CS224W-Lecture1.md",
+    "Meeting with Sunil.md",
     "Machine Learning with Graphs.md",
     "Pasted image 20240725184437.png",
     "Pasted image 20240725183931.png",
@@ -157,7 +186,6 @@
     "Traditional Feature-based Methods - GraphML.md",
     "Learning/Academic.md",
     "Learning/Machine Learning.md",
-    "Learning/{Learning Network}.md",
     "Misc..md",
     "Learning/Backend Engineering.md",
     "Learning/Python.md",
@@ -168,7 +196,6 @@
     "Pasted image 20240703083239.png",
     "Pasted image 20240703083053.png",
     "Knowledge Graph - GraphML.md",
-    "Learning/Architectures.md",
     "Linear Regression.md",
     "ML Algorithms.md",
     "Learning/Engineering.md",
@@ -179,8 +206,6 @@
     "Statistics.md",
     "Set Theory.md",
     "Self Attention & Transformers.md",
-    "Scientific Machine Learning.md",
-    "Scaling Laws of Neural Networks - Paper.md",
     "Pasted image 20240524194708.png",
     "Pasted image 20240524193503.png",
     "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",
