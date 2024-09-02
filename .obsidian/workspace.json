@@ -20,30 +20,19 @@
             }
           },
           {
-            "id": "40d334ec4001c228",
+            "id": "98cb844116626b08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Language Processing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1339ea2000002244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics and History of NLP.md",
+                "file": "MagicBus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting with Sunil.md",
+                "file": "MagicBus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting with Sunil.md",
+                "file": "MagicBus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting with Sunil.md"
+                "file": "MagicBus.md"
               }
             }
           }
@@ -171,14 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33c975be1fc48805",
+  "active": "98cb844116626b08",
   "lastOpenFiles": [
+    "Meeting with Sunil.md",
+    "MagicBus.md",
     "Learning/Architectures.md",
     "Basics and History of NLP.md",
     "Natural Language Processing.md",
     "Learning/{Learning Network}.md",
     "CS224W-Lecture1.md",
-    "Meeting with Sunil.md",
     "Machine Learning with Graphs.md",
     "Pasted image 20240725184437.png",
     "Pasted image 20240725183931.png",
@@ -205,7 +195,6 @@
     "Statistics and Probability.md",
     "Statistics.md",
     "Set Theory.md",
-    "Self Attention & Transformers.md",
     "Pasted image 20240524194708.png",
     "Pasted image 20240524193503.png",
     "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",

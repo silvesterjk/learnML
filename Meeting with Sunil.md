@@ -7,4 +7,11 @@
 * One to many
 * Use Tom selectively
 * Quiziz
-	*  
+
+* Enhance the user exp. -- From a single source
+
+Meeting with Sujith:
+* Bharat Innovators
+
+
+[[MagicBus]]
