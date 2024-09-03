@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting with Sunil.md",
+                "file": "TY Strategic Meeting.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +163,10 @@
   "active": "98cb844116626b08",
   "lastOpenFiles": [
     "Meeting with Sunil.md",
+    "TY Strategic Meeting.md",
+    "TY/UMA.md",
     "MagicBus.md",
+    "TY",
     "Learning/Architectures.md",
     "Basics and History of NLP.md",
     "Natural Language Processing.md",
@@ -193,8 +196,6 @@
     "Transformers.md",
     "Tokenization.md",
     "Statistics and Probability.md",
-    "Statistics.md",
-    "Set Theory.md",
     "Pasted image 20240524194708.png",
     "Pasted image 20240524193503.png",
     "D2AI/KnowledgeGraphs/L3-prep_text_for_RAG.ipynb",
@@ -206,7 +207,6 @@
     "D2AI/knowledgeGraph.ipynb",
     "D2AI",
     "Pasted image 20240508154815.png",
-    "transformers/model.ipynb",
-    "transformers/model_code.py"
+    "transformers/model.ipynb"
   ]
 }

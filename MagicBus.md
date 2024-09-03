@@ -33,6 +33,6 @@
 			* 2 technical trainer
 		* Canvas is used as the LMS
 
-
-Net detractor effect 
-* Are we optimising for money? Or are we optimising for users?
+* Net detractor effect 
+	* Are we optimising for money? 
+	* Or are we optimising for users?
