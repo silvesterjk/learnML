@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "49c81fe059e09a6f",
+        "id": "bb44ea5fc2bb737a",
         "type": "tabs",
         "children": [
           {
-            "id": "33c975be1fc48805",
+            "id": "6986fde176d3356d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TY Strategic Meeting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98cb844116626b08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MagicBus.md",
+                "file": "Understanding Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "d4d82a23ef56e78b",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MagicBus.md",
+                "file": "Understanding Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MagicBus.md",
+                "file": "Understanding Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MagicBus.md"
+                "file": "Understanding Deep Learning.md"
               }
             }
           }
@@ -160,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98cb844116626b08",
+  "active": "6986fde176d3356d",
   "lastOpenFiles": [
-    "Meeting with Sunil.md",
+    "Traditional Feature-based Methods - GraphML.md",
     "TY Strategic Meeting.md",
-    "TY/UMA.md",
     "MagicBus.md",
+    "Meeting with Sunil.md",
+    "TY/UMA.md",
     "TY",
     "Learning/Architectures.md",
     "Basics and History of NLP.md",
@@ -176,7 +163,6 @@
     "Pasted image 20240725184437.png",
     "Pasted image 20240725183931.png",
     "Pasted image 20240725183923.png",
-    "Traditional Feature-based Methods - GraphML.md",
     "Learning/Academic.md",
     "Learning/Machine Learning.md",
     "Misc..md",
