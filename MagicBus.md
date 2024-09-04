@@ -36,3 +36,8 @@
 * Net detractor effect 
 	* Are we optimising for money? 
 	* Or are we optimising for users?
+	
+* 1% learners are only getting job
+	* Infosys
+	* Wipro
+	* TCS
