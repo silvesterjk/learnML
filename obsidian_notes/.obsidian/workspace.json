@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/{Learning Network}.md",
+                "file": "Large Language Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "{Learning Network}"
+              "title": "Large Language Models"
+            }
+          },
+          {
+            "id": "ce575237ca454788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Natural Language Processing"
+            }
+          },
+          {
+            "id": "30af84c1429446ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language and Sequence Modeling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Language and Sequence Modeling"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9e404fa03bf689a4",
@@ -93,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/{Learning Network}.md",
+                "file": "Language and Sequence Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for {Learning Network}"
+              "title": "Backlinks for Language and Sequence Modeling"
             }
           },
           {
@@ -112,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/{Learning Network}.md",
+                "file": "Language and Sequence Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from {Learning Network}"
+              "title": "Outgoing links from Language and Sequence Modeling"
             }
           },
           {
@@ -139,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/{Learning Network}.md"
+                "file": "Language and Sequence Modeling.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of {Learning Network}"
+              "title": "Outline of Language and Sequence Modeling"
             }
           }
         ]
@@ -162,8 +192,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab867f3e91aa4337",
+  "active": "30af84c1429446ff",
   "lastOpenFiles": [
+    "Natural Language Processing.md",
+    "Language and Sequence Modeling.md",
+    "Large Language Models.md",
+    "Learning/Academic.md",
+    "Learning/Machine Learning.md",
+    "Learning/{Learning Network}.md",
     "Learning/Load Test.md",
     "Learning/LLM Frameworks.md",
     "Learning/LLM Engineering.md",
@@ -173,8 +209,6 @@
     "Learning/Backend Engineering.md",
     "Learning/Architectures.md",
     "Learning/AI Agents.md",
-    "Learning/Academic.md",
-    "Learning/{Learning Network}.md",
     "Encoder-Only Transformer (UJ BERT).md",
     "Decoder-Only Transformer (UJ LLaMA).md",
     "Decoder-Only Transformer (AK GPT).md"
