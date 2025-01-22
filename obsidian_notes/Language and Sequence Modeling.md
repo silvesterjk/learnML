@@ -35,6 +35,7 @@ Types of Conditioned Predictions  -- [Image Link](https://drive.google.com/file/
 	2. For use cases like POS tagging
 
 Smoothing Methods:
+* Goodman: An empirical study of smoothing techniques for language modelling.
 
 
 
