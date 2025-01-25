@@ -42,6 +42,15 @@ LM Evaluation:
 1. Log-likelihood
 	1. Likelihood of the parameters given the data
 	2. This is aligned towards an available ground truth
+	3. Mostly used during the training phase against test.
+
+2. Per-word Log Likelihood:
+	1.  We'll divide the Log-likelihood by the number of tokens
+	2. Given that not tokenisers are all the same, if two models are compared, we'll want to use the same value for the denominator, accounting for the log-likelihood, else it would become an unequal comparison.
+3. Entropy - Per-word (Cross Entropy)
+	1. Almost the same as the above except that we take log2 here.
+	2. Because probability theory and information theory are connected.
+	3. 
 
 
 
