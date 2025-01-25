@@ -50,7 +50,7 @@ LM Evaluation:
 3. Entropy - Per-word (Cross Entropy)
 	1. Almost the same as the above except that we take log2 here.
 	2. Because probability theory and information theory are connected.
-	3. 
+	3. Read about: Arithmetic coding -- Lossless 
 
 
 
