@@ -50,7 +50,10 @@ LM Evaluation:
 3. Entropy - Per-word (Cross Entropy)
 	1. Almost the same as the above except that we take log2 here.
 	2. Because probability theory and information theory are connected.
-	3. Read about: Arithmetic coding -- Lossless 
+	3. Read about: Arithmetic coding -- Lossless
+4. Perplexity
+	1.  Average number of guesses you'll be taking to get the token right before the language model
+5. Alternate: Featurized Log-Linear Models 
 
 
 
