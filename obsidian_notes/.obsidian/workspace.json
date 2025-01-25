@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Self Attention & Transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Natural Language Processing"
+              "title": "Self Attention & Transformers"
             }
           },
           {
@@ -194,6 +194,7 @@
   },
   "active": "30af84c1429446ff",
   "lastOpenFiles": [
+    "Self Attention & Transformers.md",
     "Natural Language Processing.md",
     "Language and Sequence Modeling.md",
     "Large Language Models.md",

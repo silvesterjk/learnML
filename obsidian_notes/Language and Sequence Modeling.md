@@ -55,5 +55,3 @@ LM Evaluation:
 	1.  Average number of guesses you'll be taking to get the token right before the language model
 5. Alternate: Featurized Log-Linear Models 
 
-
-
