@@ -38,7 +38,10 @@ Smoothing Methods:
 * Goodman: An empirical study of smoothing techniques for language modelling.
 
 
-
+LM Evaluation:
+1. Log-likelihood
+	1. Likelihood of the parameters given the data
+	2. This is aligned towards an available ground truth
 
 
 
