@@ -84,3 +84,6 @@ Transformers use word embedding, positional coding, self-attention, encoder-deco
 * The logits from the FNN that are added and normalised are then sent as the the input to the multi headed attention layer of the decoder block, and this attention layer takes other input from the masked-multi headed attention layer of the decoder block.
 * Output of the multi headed attention layer of the decoder block is then sent to another FNN which is then added with its residual connection and then normalised. 
 * Which goes through a linear layer and then a softmax later to output predicted probabilities against the text corpus. 
+
+--------------------------------- 
+
