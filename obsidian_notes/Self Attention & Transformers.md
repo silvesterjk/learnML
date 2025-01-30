@@ -18,10 +18,13 @@ Attention Score functions:
 		This is the one that's used in transformers (with a small tweak).
 * 3 Dot product
 		This requires the q and k to be of the same size.
+		This is mainly limited by expecting the query and key in the same space.
 * 4. Scaled Dot Product
 		The scale of the dot product increases as the dimensions get larger.
+		We can scale by the size of the vector.
+		We do this by dividing the q^Tk with the square root of the key vector
 
-We can scale 
+
 
 
 
