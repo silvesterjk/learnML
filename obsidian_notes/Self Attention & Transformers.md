@@ -22,7 +22,7 @@ Attention Score functions:
 * 4. Scaled Dot Product
 		The scale of the dot product increases as the dimensions get larger.
 		We can scale by the size of the vector.
-		We do this by dividing the q^Tk with the square root of the key vector
+		We do this by dividing the q^Tk with the square root of the key vector 
 
 
 
