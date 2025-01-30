@@ -7,7 +7,24 @@ Attention:
 * The most common way to calculate the similarity for attention is to just calculate the numerator for the cosine similarity. This is because the denominator simply scales the magnitude of the similarity score to be between negative 1 and 1. 
 	* Since we are using the same number of inputs from the encoder and decoder, the magnitude of the similarity need not be scaled. 
 	* This we can stick to just the numerator or simply the dot product. 
-* Similarity scores are passed through softmax to get the weightage of the percent of input to be used
+* Similarity scores are passed through softmax to get the weightage of the percent of input to be used.
+* q is the query and k is the key
+
+Attention Score functions:
+
+* 1 Using multi-layer perceptron
+		Challenge is that taking dot product is not possible.
+* 2 Bilinear
+		This is the one that's used in transformers (with a small tweak).
+* 3 Dot product
+		This requires the q and k to be of the same size.
+* 4. Scaled Dot Product
+		The scale of the dot product increases as the dimensions get larger.
+
+We can scale 
+
+
+
 
 
 ---------------------------------

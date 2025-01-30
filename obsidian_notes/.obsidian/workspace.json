@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Large Language Models.md",
+                "file": "Self Attention & Transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Large Language Models"
+              "title": "Self Attention & Transformers"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Language and Sequence Modeling"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,12 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30af84c1429446ff",
+  "active": "ab867f3e91aa4337",
   "lastOpenFiles": [
-    "Self Attention & Transformers.md",
     "Natural Language Processing.md",
-    "Language and Sequence Modeling.md",
     "Large Language Models.md",
+    "Language and Sequence Modeling.md",
+    "Self Attention & Transformers.md",
     "Learning/Academic.md",
     "Learning/Machine Learning.md",
     "Learning/{Learning Network}.md",
