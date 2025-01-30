@@ -20,15 +20,18 @@ Attention Score functions:
 		This requires the q and k to be of the same size.
 		This is mainly limited by expecting the query and key in the same space.
 * 4. Scaled Dot Product
-		The scale of the dot product increases as the dimensions get larger.
-		We can scale by the size of the vector.
-		We do this by dividing the q^Tk with the square root of the key vector 
+		* The scale of the dot product increases as the dimensions get larger.
+		* We can scale by the size of the vector.
+		* We do this by dividing the q^Tk with the square root of the key vector 
+		* The scale of the input values to the softmax affects the peakiness of the output.
+		* Dividing the attention scores by the square root of the dimension of the key vector is a normalisation technique employed in self-attention. This step helps in controlling the magnitude of the attention scores and stabilising the learning process.
+		* Consider a scenario where the dimensionality of the key vector is large. The dot product between the query and key vectors can become disproportionately large due to the increased dimensionality. This can lead to issues during training, such as exploding gradients or vanishing gradients, which hinder the learning process and make it difficult for the model to effectively capture dependencies between tokens.
+		* To mitigate this problem, the attention scores are divided by the square root of the dimension of the key vector. By doing so, we scale down the attention scores, ensuring that their magnitude remains manageable. This scaling prevents the dot product from becoming too large and helps stabilize the learning process.
 
 
-
-
-
-
+Types of Transformers:
+* Encoder-Decoder (T5, MBART)
+* Decoder-only (GPT, Llama)
 
 ---------------------------------
 
