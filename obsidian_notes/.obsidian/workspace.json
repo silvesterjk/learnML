@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab867f3e91aa4337",
+            "id": "0f1d1357f879c5da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre-Training and Pre-Trained Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pre-Training and Pre-Trained Models"
+            }
+          },
+          {
+            "id": "8b1f89d224a7e69f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,37 +33,10 @@
               },
               "icon": "lucide-file",
               "title": "Self Attention & Transformers"
-            }
-          },
-          {
-            "id": "ce575237ca454788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Attention & Transformers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Self Attention & Transformers"
-            }
-          },
-          {
-            "id": "30af84c1429446ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Language and Sequence Modeling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Language and Sequence Modeling"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,15 +178,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab867f3e91aa4337",
+  "active": "8b1f89d224a7e69f",
   "lastOpenFiles": [
-    "Natural Language Processing.md",
-    "Large Language Models.md",
-    "Language and Sequence Modeling.md",
+    "Pre-Training and Pre-Trained Models.md",
     "Self Attention & Transformers.md",
+    "Large Language Models.md",
     "Learning/Academic.md",
     "Learning/Machine Learning.md",
     "Learning/{Learning Network}.md",
+    "Encoder-Only Transformer (UJ BERT).md",
+    "Natural Language Processing.md",
+    "Language and Sequence Modeling.md",
     "Learning/Load Test.md",
     "Learning/LLM Frameworks.md",
     "Learning/LLM Engineering.md",
@@ -209,7 +198,6 @@
     "Learning/Backend Engineering.md",
     "Learning/Architectures.md",
     "Learning/AI Agents.md",
-    "Encoder-Only Transformer (UJ BERT).md",
     "Decoder-Only Transformer (UJ LLaMA).md",
     "Decoder-Only Transformer (AK GPT).md"
   ]
