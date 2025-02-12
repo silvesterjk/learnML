@@ -8,6 +8,10 @@
 	* They used neural networks to do that.
 	* Using these neural networks, word2vec generates word embeddings by looking at which other words they tend to appear next to in a given sentence.
 	* If the two words tend to have the same neighbours, their embeddings will be closer to one another and vice versa.
+	* Since the size of embeddings is fixed, their properties (dimensions) are chosen to create a mental representation of the word.
+* There are many types of embeddings, like word embeddings and sentence embeddings that are used to indicate different levels of abstractions (word versus sentence).
+	* Embeddings can be created for different types of inputs too. Such as document, sentence, word, tokens and so on.
+* Attention selectively determines which words are most important in a given sentence.
 
 
 
@@ -17,3 +21,5 @@ Thoughts from the topic -- Will be added to [[Thoughts for Research]] :
 2. Can we encode alphabets with tokens instead of 0 and 1s?
 3. Can we use a local language encoder to boost the performance of the model in languages the models are not trained on?
 4. Can we do dimensionality reduction with the decoder-only models?
+5. Can we add variations to the model output post inference? --> One with greedy search (Temp: 0) and the further steps are built on the previous output for preference tuning.
+6. 
