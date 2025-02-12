@@ -1,1 +1,0 @@
-[[Understanding Deep Learning]]
