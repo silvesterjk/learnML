@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "d5648455fc061732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Thoughts for Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thoughts for Research"
+            }
+          },
+          {
             "id": "84c7d3769acefb0e",
             "type": "leaf",
             "state": {
@@ -224,9 +238,11 @@
   },
   "active": "5ac4a014710671a6",
   "lastOpenFiles": [
+    "Questions/Thoughts for Research.md",
+    "Chapter 1.md",
+    "Questions",
     "LLMs.md",
     "Large Language Models.md",
-    "Chapter 1.md",
     "Hand's-On Large Language Models by Jay Alammar and Maarten Grrotendorst.md",
     "Books.md",
     "Learning/AI Agents.md",
@@ -248,7 +264,6 @@
     "Learning/LLM Frameworks.md",
     "Learning/Frameworks.md",
     "Learning/Datasets.md",
-    "Learning/Backend Engineering.md",
-    "Learning/Architectures.md"
+    "Learning/Backend Engineering.md"
   ]
 }
