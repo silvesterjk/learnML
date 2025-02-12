@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/{Learning Network}.md",
+                "file": "Large Language Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "{Learning Network}"
+              "title": "Large Language Models"
+            }
+          },
+          {
+            "id": "5ac4a014710671a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1"
+            }
+          },
+          {
+            "id": "84c7d3769acefb0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1"
             }
           },
           {
@@ -108,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9e404fa03bf689a4",
@@ -193,30 +222,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61895feb58719deb",
+  "active": "5ac4a014710671a6",
   "lastOpenFiles": [
-    "Networking.md",
-    "Learning/Python.md",
-    "Networking & Backend Engineering.md",
-    "Learning/{Learning Network}.md",
-    "Self Attention & Transformers.md",
-    "Pre-Training and Pre-Trained Models.md",
+    "LLMs.md",
     "Large Language Models.md",
+    "Chapter 1.md",
+    "Hand's-On Large Language Models by Jay Alammar and Maarten Grrotendorst.md",
+    "Books.md",
+    "Learning/AI Agents.md",
+    "LLMs as Agents.md",
     "Learning/Academic.md",
     "Learning/Machine Learning.md",
+    "Learning/Engineering.md",
+    "Learning/LLM Engineering.md",
+    "Pre-Training and Pre-Trained Models.md",
+    "Learning/{Learning Network}.md",
+    "Learning/Python.md",
+    "Networking.md",
+    "Networking & Backend Engineering.md",
+    "Self Attention & Transformers.md",
     "Encoder-Only Transformer (UJ BERT).md",
     "Natural Language Processing.md",
     "Language and Sequence Modeling.md",
     "Learning/Load Test.md",
     "Learning/LLM Frameworks.md",
-    "Learning/LLM Engineering.md",
     "Learning/Frameworks.md",
-    "Learning/Engineering.md",
     "Learning/Datasets.md",
     "Learning/Backend Engineering.md",
-    "Learning/Architectures.md",
-    "Learning/AI Agents.md",
-    "Decoder-Only Transformer (UJ LLaMA).md",
-    "Decoder-Only Transformer (AK GPT).md"
+    "Learning/Architectures.md"
   ]
 }
