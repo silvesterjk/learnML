@@ -1,0 +1,2 @@
+SciML: Open Source Software for Scientific Machine Learning -- [Link](https://sciml.ai/)
+ ETH Zürich | Deep Learning in Scientific Computing 2023 -- [Link](https://youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm&si=uV0LfGHS3UaUFGqo) [Link2](https://www.research-collection.ethz.ch/handle/20.500.11850/646749) 
