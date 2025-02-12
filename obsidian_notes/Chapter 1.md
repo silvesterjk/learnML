@@ -25,7 +25,11 @@
 		* **Prediction:** Apply a **softmax** function to the output of the linear layer. This converts the scores into probabilities. The category with the higher probability is your predicted sentiment.
 	* In simpler terms: Imagine you want a summary of a whole paragraph. The `[CLS]` token is like asking BERT to create a special "summary token" that represents the meaning of the entire input sentence or sequence. Because it's trained within the Transformer architecture using self-attention, it learns to effectively aggregate information from all the words in the sentence. You then just need to look at the output representation of this single `[CLS]` token to get your sentence-level understanding.
 	* BERT-like models are commonly used for _transfer learning,_ which involves first pretraining it for language modeling and then fine-tuning it for a specific task. For instance, by training BERT on the entirety of Wikipedia, it learns to understand the semantic and contextual nature of text. Then, we can use that pretrained model to _fine-tune_ it for a specific task, like text classification.
+* Encoder-only models such as BERT can be classified as _representation models_. Similarly decoder-only can be called _generative models_.
+* Without much change in the architecture, _representation models_ mainly focus on representing language, for instance, by creating embeddings, and typically do not generate text. In contrast, _generative models_ focus primarily on generating text and typically are not trained to generate embeddings.
 
+
+________________________________________________________________________
 
 Thoughts from the topic -- Will be added to [[Thoughts for Research]] :
 1. Non playable characters (NPCs) have often been referred to as AI even though many are mere if-else statements. Huh! Interesting. 
@@ -34,4 +38,5 @@ Thoughts from the topic -- Will be added to [[Thoughts for Research]] :
 4. Can we do dimensionality reduction with the decoder-only models?
 5. Can we add variations to the model output post inference? --> One with greedy search (Temp: 0) and the further steps are built on the previous output for preference tuning.
 6. Lego: Can we create a classifier (+ context embeddings) to identify the programming language and use that as a gating mechanism to choose between different specialists? -- See how single task executions such as in BERT-like models can be useful here.
+	1. I suspect if abstraction can help a lot in make the models more parameter efficient during inference. Wonder if RL can come in handy here too.
 7. 
