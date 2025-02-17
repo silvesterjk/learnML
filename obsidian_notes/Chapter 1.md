@@ -28,6 +28,9 @@
 * Encoder-only models such as BERT can be classified as _representation models_. Similarly decoder-only can be called _generative models_.
 * Without much change in the architecture, _representation models_ mainly focus on representing language, for instance, by creating embeddings, and typically do not generate text. In contrast, _generative models_ focus primarily on generating text and typically are not trained to generate embeddings.
 
+* Attention is All You Need: 
+	* 
+
 
 ________________________________________________________________________
 
