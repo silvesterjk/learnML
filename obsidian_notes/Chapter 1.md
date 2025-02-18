@@ -29,6 +29,7 @@
 * Without much change in the architecture, _representation models_ mainly focus on representing language, for instance, by creating embeddings, and typically do not generate text. In contrast, _generative models_ focus primarily on generating text and typically are not trained to generate embeddings.
 
 * Attention is All You Need: 
+	* Compared to the recurrence network, the Transformer could be trained in parallel, which tremendously sped up training.
 	* 
 
 
