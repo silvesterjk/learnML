@@ -43,4 +43,4 @@ Thoughts from the topic -- Will be added to [[Thoughts for Research]] :
 5. Can we add variations to the model output post inference? --> One with greedy search (Temp: 0) and the further steps are built on the previous output for preference tuning.
 6. Lego: Can we create a classifier (+ context embeddings) to identify the programming language and use that as a gating mechanism to choose between different specialists? -- See how single task executions such as in BERT-like models can be useful here.
 	1. I suspect if abstraction can help a lot in make the models more parameter efficient during inference. Wonder if RL can come in handy here too.
-7. 
+7. Can code in the prompt influence the way the model does math?
