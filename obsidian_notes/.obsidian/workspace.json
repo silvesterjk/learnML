@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "8e1a4f81cdde05cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "8b1f89d224a7e69f",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31cb5b311b2c9ece",
+  "active": "8e1a4f81cdde05cc",
   "lastOpenFiles": [
     "Pre-Training and Pre-Trained Models.md",
     "Large Language Models.md",
