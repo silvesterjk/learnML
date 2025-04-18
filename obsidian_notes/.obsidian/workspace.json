@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,14 +220,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d46dd8c3d5180492",
+  "active": "44756d44246a2ad1",
   "lastOpenFiles": [
+    "Large Language Models.md",
     "Learning/Academic.md",
     "Learning/Machine Learning.md",
     "Learning/{Learning Network}.md",
     "Self Attention & Transformers.md",
     "Natural Language Processing.md",
-    "Large Language Models.md",
     "Learning/Supervised Fine-Tuning.md",
     "Language and Sequence Modeling.md",
     "Pre-Training and Pre-Trained Models.md",
