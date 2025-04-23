@@ -54,7 +54,7 @@ Self-attention calculates values for each word based on their similarity to othe
 
 The transformer model consists of an encoder and a decoder
 - The encoder encodes the input phrase into numerical representations
-- The decoder decodes the encoded input phrase into Spanish
+- The decoder decodes the encoded input phrase into Spanish 
 
 Encoder-decoder attention helps the transformer keep track of the relationships between input and output sentences.
 - Encoder-decoder attention allows the decoder to keep track of significant words in the input.
