@@ -11,7 +11,6 @@ Attention:
 * q is the query and k is the key
 
 Attention Score functions:
-
 * 1 Using multi-layer perceptron
 		Challenge is that taking dot product is not possible.
 * 2 Bilinear
