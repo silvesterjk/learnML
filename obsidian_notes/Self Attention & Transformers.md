@@ -27,7 +27,6 @@ Attention Score functions:
 		* Consider a scenario where the dimensionality of the key vector is large. The dot product between the query and key vectors can become disproportionately large due to the increased dimensionality. This can lead to issues during training, such as exploding gradients or vanishing gradients, which hinder the learning process and make it difficult for the model to effectively capture dependencies between tokens.
 		* To mitigate this problem, the attention scores are divided by the square root of the dimension of the key vector. By doing so, we scale down the attention scores, ensuring that their magnitude remains manageable. This scaling prevents the dot product from becoming too large and helps stabilize the learning process.
 
-
 Types of Transformers:
 * Encoder-Decoder (T5, MBART)
 * Decoder-only (GPT, Llama)
