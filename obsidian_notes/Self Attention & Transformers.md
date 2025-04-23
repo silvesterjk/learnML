@@ -34,7 +34,6 @@ Types of Transformers:
 ---------------------------------
 
 Transformers
-
 * Word embedding is a technique to convert words into numbers.
 - Word embedding assigns numerical values to words based on their meaning.
 - The same word embedding network is used for each word or symbol. That gives us the flexibility to work with sentences of varied length, as the word embedding network's weights remain constant.
