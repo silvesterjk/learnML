@@ -105,3 +105,8 @@ A technique called "Teacher Forcing" allows decoder components to be parallelize
 
 Another recent approach following RWKV's success is RetNet, which uses a retention mechanism rather than attention. RetNet "combines the parallel representation and the recurrent representation to achieve a balance between efficiency and performance" and can generate multi-scale sequence representations.
 
+## Hybrid Transformer-RNN Models
+
+Some approaches directly combine transformer and RNN components:
+
+One approach uses attention layer to create memories associated with context patterns rather than the inputs themselves. This relieves pressure on the RNN structure's weights and allows the model memory to focus on remembering the input.
