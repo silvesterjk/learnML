@@ -101,3 +101,7 @@ RWKV is parallelizable because the time-decay of each channel is data-independen
 
 A technique called "Teacher Forcing" allows decoder components to be parallelized during training by using ground truth outputs instead of the model's previous outputs. This makes the RNN-style components trainable in parallel while maintaining sequential generation during inference.
 
+## RetNet (Retention Network)
+
+Another recent approach following RWKV's success is RetNet, which uses a retention mechanism rather than attention. RetNet "combines the parallel representation and the recurrent representation to achieve a balance between efficiency and performance" and can generate multi-scale sequence representations.
+
