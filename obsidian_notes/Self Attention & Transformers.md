@@ -86,3 +86,14 @@ Transformers use word embedding, positional coding, self-attention, encoder-deco
 ## Linear Attention Transformers
 
 One approach is transforming traditional attention mechanisms to be linear rather than quadratic in complexity. Researchers have shown that self-attention can be expressed as "a linear dot-product of kernel feature maps" which reduces complexity from O(N²) to O(N) and allows for an iterative implementation that connects transformers to RNNs. [ArXiv](https://arxiv.org/abs/2006.16236) This approach makes autoregressive transformers dramatically faster for very long sequences.
+
+## RWKV (Receptance Weighted Key Value)
+
+Perhaps the most successful RNN adaptation for parallelization is RWKV. RWKV "combines the efficient parallelizable training of transformers with the efficient inference of RNNs" through a linear attention mechanism that allows the model to be formulated as either a transformer or an RNN. [ArXiv](https://arxiv.org/abs/2305.13048) RWKV can be:
+
+- Parallelized during training (like a transformer)
+- Run sequentially during inference (like an RNN)
+- Scale to large model sizes (up to 14 billion parameters)
+
+RWKV is parallelizable because the time-decay of each channel is data-independent and trainable. Instead of adjusting time-decay within channels as in traditional RNNs, RWKV moves information between channels with different decay rates. [GitHub](https://github.com/BlinkDL/RWKV-LM)
+
