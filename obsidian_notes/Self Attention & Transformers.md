@@ -83,6 +83,7 @@ Transformers use word embedding, positional coding, self-attention, encoder-deco
 
 --------------------------------- 
 
+# Newer Adaptations
 ## Linear Attention Transformers
 
 One approach is transforming traditional attention mechanisms to be linear rather than quadratic in complexity. Researchers have shown that self-attention can be expressed as "a linear dot-product of kernel feature maps" which reduces complexity from O(N²) to O(N) and allows for an iterative implementation that connects transformers to RNNs. [ArXiv](https://arxiv.org/abs/2006.16236) This approach makes autoregressive transformers dramatically faster for very long sequences.
