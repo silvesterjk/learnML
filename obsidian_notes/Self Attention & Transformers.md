@@ -97,3 +97,7 @@ Perhaps the most successful RNN adaptation for parallelization is RWKV. RWKV "co
 
 RWKV is parallelizable because the time-decay of each channel is data-independent and trainable. Instead of adjusting time-decay within channels as in traditional RNNs, RWKV moves information between channels with different decay rates. [GitHub](https://github.com/BlinkDL/RWKV-LM)
 
+## Teacher Forcing for Parallel Training
+
+A technique called "Teacher Forcing" allows decoder components to be parallelized during training by using ground truth outputs instead of the model's previous outputs. This makes the RNN-style components trainable in parallel while maintaining sequential generation during inference.
+
