@@ -59,3 +59,11 @@ class Dummy(Network):
         if not os.path.exists(directory):
             os.makedirs(directory)
         pickle.dump(model, open(directory + '/' + self.model_name + '.p', 'wb'))
+
+
+# What happens here:
+"""
+1. Implement a class that inherits from the Network class
+
+
+"""
