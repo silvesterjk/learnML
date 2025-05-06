@@ -69,3 +69,22 @@ def submit_exercise(
     print('Zipping successful! Zip is stored under: {}'.format(
         os.path.abspath(zip_output_filename)
     ))
+
+
+"""
+Here:
+1. The function `zipdir` is defined to recursively add a folder and all its subfolders to a zipfile.
+2. The function `submit_exercise` is defined to create a curated zip out of submission related files.
+3. The function checks for existing relevant folders and notebook filenames in the specified data path.
+4. It creates an output directory if the student removed it.
+5. The function creates a zip file and adds the relevant folders and notebooks to it.
+6. It prints a success message with the path of the created zip file.
+7. The function also checks if the 'models' folder is empty and raises an exception if it is, after a 2-second wait.
+8. The function uses the `os` and `zipfile` modules to handle file and directory operations.
+9. The function uses the `sleep` function from the `time` module to introduce a delay before checking if the 'models' folder is empty.
+10. The function uses the `os.path` module to handle file paths and directories.
+11. The function uses the `os.walk` method to recursively traverse the directory tree and add files to the zip file.
+12. The function uses the `os.makedirs` method to create directories if they do not exist.
+13. The function uses the `os.listdir` method to list the contents of a directory.
+14. The function uses the `os.path.abspath` method to get the absolute path of the zip file.
+"""
