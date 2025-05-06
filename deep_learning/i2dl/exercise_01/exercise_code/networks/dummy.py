@@ -61,11 +61,10 @@ class Dummy(Network):
         pickle.dump(model, open(directory + '/' + self.model_name + '.p', 'wb'))
 
 
-# What happens here:
 """
-1. Implement a class that inherits from the Network class
-2. Implement the forward function
-3. Implement the save_model function
-
-
+# What happens here:
+1. The Dummy class inherits from the Network class
+2. The forward function is implemented to always return a value larger than 59
+3. The save_model function is implemented to save the model to a file
+4. The __repr__ function is implemented to return a string representation of the class
 """
