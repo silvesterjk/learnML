@@ -64,6 +64,8 @@ class Dummy(Network):
 # What happens here:
 """
 1. Implement a class that inherits from the Network class
+2. Implement the forward function
+3. Implement the save_model function
 
 
 """
