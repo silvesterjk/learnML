@@ -68,3 +68,7 @@ class Dummy(Network):
 3. The save_model function is implemented to save the model to a file
 4. The __repr__ function is implemented to return a string representation of the class
 """
+
+# Example usage
+dummy_machine = Dummy()
+dummy_machine.save_model()
