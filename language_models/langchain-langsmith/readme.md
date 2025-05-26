@@ -1,1 +1,1 @@
-### Exercises from Coding-Crashkurse
+* Exercises from Coding-Crashkurse
