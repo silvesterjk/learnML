@@ -1,2 +1,3 @@
-[[Data Selection - Paper]]
-[[Scaling Laws of Neural Networks - Paper]]
+[[Classical Machine Learning - Papers]]
+[[Deep Learning - Papers]]
+[[Multimodal Foundation Models - Papers]]
