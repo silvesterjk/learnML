@@ -15,6 +15,7 @@ class UnitTest(ABC):
     def __call__(self):
         """
         Run the test and return a tuple (tests_failed, total_tests)
+        :return: tuple (tests_failed, total_tests)
         """
         try:
             test_passed = self.test()
