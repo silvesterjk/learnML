@@ -16,7 +16,6 @@ class UnitTest(ABC):
         """
         Run the test and return a tuple (tests_failed, total_tests)
         :return: tuple (tests_failed, total_tests)
-        :rtype: tuple
         """
         try:
             test_passed = self.test()
