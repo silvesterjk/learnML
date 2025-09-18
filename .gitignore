@@ -9,3 +9,8 @@ Learning Media/Pasted image 20240415133754.png
 Learning Media/Pasted image 20240415174910.png
 Learning Media/Pasted image 20240415175226.png
 /obsidian_notes/Questions
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
