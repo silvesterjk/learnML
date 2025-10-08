@@ -1,1 +1,1 @@
-re
+langchain-text-splitters>=1.0.0a1
