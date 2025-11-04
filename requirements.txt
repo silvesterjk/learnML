@@ -1,4 +1,4 @@
 langchain-text-splitters>=1.0.0a1
-transformers=
+transformers==
 ffmeg
 torch==2.8.0
