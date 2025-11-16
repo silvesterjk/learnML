@@ -4,3 +4,5 @@ https://inst.eecs.berkeley.edu/~cs188/textbook/search/informed.html
 
 1.5 Local Search
 https://inst.eecs.berkeley.edu/~cs188/textbook/search/local.html
+
+1.4 Search
